@@ -62,4 +62,4 @@ This keeps the HTML clean and reduces repeated CSS rules.
 
 ## ✅ Live Demo
 
-🔗 Live Preview: (add your GitHub Pages link here)
+🔗 [Live Preview](https://rowanessam14.github.io/user-dashboard/)

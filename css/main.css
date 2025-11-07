@@ -59,7 +59,7 @@ li {
   margin-bottom: 5px;
 }
 .sidebar ul li a {
-  transition: 0.3s; /* 3shan on hover el color change ybah na3em*/
+  transition: 0.3s;
 }
 .sidebar ul li a:hover,
 .sidebar ul li a.active {
